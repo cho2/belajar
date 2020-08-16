@@ -1,0 +1,7 @@
+[15.2-buaya-oss]
+name=15.2-buaya-oss
+enabled=1
+autorefresh=1
+baseurl=https://buaya.klas.or.id/opensuse/distribution/leap/15.2/repo/oss
+type=rpm-md
+keeppackages=0

@@ -1,0 +1,70 @@
+.M.......    /etc/skel/.config
+missing     /etc/skel/bin
+.M.......    /proc
+.M.......    /sys
+.M.......  g /run/netconfig
+.M.......  g /run/netconfig/resolv.conf
+.M.......  g /run/netconfig/yp.conf
+.M.......  g /usr/share/fonts/misc/encodings.dir
+.M.......  g /usr/share/fonts/misc/fonts.scale
+.M.......  g /var/lib/ca-certificates/ca-bundle.pem
+.M.......  g /var/lib/ca-certificates/java-cacerts
+.......T.  c /etc/sudoers
+Warning: running kernel does not support fscaps
+S.5....T.  c /etc/environment
+....L....  c /etc/pam.d/common-account
+....L....  c /etc/pam.d/common-auth
+....L....  c /etc/pam.d/common-password
+....L....  c /etc/pam.d/common-session
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+.M....G..  g /etc/brlapi.key
+S.5....T.  c /etc/fonts/conf.d/10-rendering-options.conf
+S.5....T.  c /etc/fonts/conf.d/58-family-prefer-local.conf
+.M.......  g /usr/share/fonts/100dpi/encodings.dir
+.M.......  g /usr/share/fonts/100dpi/fonts.scale
+.M.......  g /usr/share/fonts/75dpi/encodings.dir
+.M.......  g /usr/share/fonts/75dpi/fonts.scale
+Warning: running kernel does not support fscaps
+S.5....T.  c /etc/zypp/zypp.conf
+SM5....T.  c /etc/fonts/conf.d/30-metric-aliases.conf
+S.5....T.  c /etc/systemd/journald.conf
+Warning: running kernel does not support fscaps
+S.5....T.  c /etc/default/grub
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+S.5....T.  c /etc/gdm/custom.conf
+S.5....T.    /usr/share/gdm/greeter/images/distributor.svg
+S.5....T.  c /etc/speech-dispatcher/speechd.conf
+SM5....T.    /usr/share/plymouth/themes/spinner/watermark.png
+S.5....T.  c /etc/skel/.profile
+.......T.    /usr/lib64/gconv/gconv-modules.cache
+.M.......    /etc/polkit-1/rules.d
+Warning: running kernel does not support fscaps
+Warning: running kernel does not support fscaps
+S.5....T.  c /etc/apparmor.d/usr.sbin.avahi-daemon
+.M.......  g /etc/udev/hwdb.bin
+.M.......  g /usr/lib/udev/compat-symlink-generation
+.M.......  g /var/lib/flatpak
+.M.......  g /usr/share/fonts/Type1/encodings.dir
+.M.......  g /usr/share/fonts/cyrillic/encodings.dir
+.M.......  g /usr/share/fonts/cyrillic/fonts.scale
+.M.......  g /usr/share/fonts/truetype/encodings.dir
+.M.......  g /var/log/alternatives.log
+..5....T.    /usr/lib/os-release
+Warning: running kernel does not support fscaps
+.M.......  g /var/lib/pulseaudio
+.......T.  c /etc/plymouth/plymouthd.conf
