@@ -2,122 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Belajar 20.08
+Internet, 17 Agustus 2020.
 
-[Link to another page](./another-page.html).
+Belajar 20.08, sebuah distribusi Linux siap pakai untuk pembelajaran. Pengguna tidak perlu memasangnya, cukup jalankan dengan mode [live usb](https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows) atau menggunakan virtualisasi dan aplikasi siap digunakan.
 
-There should be whitespace between paragraphs.
+<button name="button" onclick="https://osdn.net/projects/belajar/downloads/73443/Belajar.x86_64-20.08.iso/">Unduh disini</button> atau <button name="button" onclick="https://drive.google.com/file/d/1sulTJM8ybqmYpcG-A_DQAmNkRbYwfAKV/view?usp=sharing">disini</button>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Aplikasi Unggulan
 
-# Header 1
+- Gcompris 0.97.1
+- LibreOffice 7.0.0.3
+- Inkscape 1.0
+- GIMP 2.10.20
+- Firefox 79.0
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Kebutuhan Perangkat Lunak
 
-## Header 2
+- Prosesor Intel/AMD 64 bit
+- Memori minimal 4 GB
+- Resolusi layar minimal 1024 x 768
+- USB drive/flashdisk minimal 4 GB
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Ucapan Terima Kasih
+Terima kasih kepada komunitas maupun perseorangan berikut yang telah mendukung kemajuan den pengembangan dunia perangkat lunak dan bebas terbuka di Indonesia.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [openSUSE-ID](https://opensuse.id/) untuk dukungan teknologi dan pengembangan openSUSE
+- [GNOME-ID](https://gnome.id/) untuk antarmuka GNOME dalam Bahasa Indonesia
+- [LibreOffice-ID](https://libreoffice.id/) untuk pengembangan LibreOffice
+- [Gcompris-ID](https://github.com/GComprisID) untuk antarmuka dan suara Gcompris dalam Bahasa Indonesia
+- [Gimpscape](https://gimpscape.org/) untuk dukungan Inkscape dan GIMP
+- [Bapak Sokibi](http://imgos-belajarlinux.blogspot.com/) untuk Buku:
+	- Belajar Komputer Tingkat Dasar
+	- Menulis Buku dengan LibreOffice
+	- Desain Grafis dengan Inkscape 
+- [Kelompok Linux Arek Suroboyo](https://buaya.klas.or.id/) untuk cermin openSUSE
