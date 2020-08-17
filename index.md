@@ -7,7 +7,7 @@ Internet, 17 Agustus 2020.
 
 Belajar 20.08, sebuah distribusi Linux siap pakai untuk pembelajaran. Pengguna tidak perlu memasangnya, cukup jalankan dengan mode [live usb](https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows) atau menggunakan virtualisasi dan aplikasi siap digunakan.
 
-<button name="button" onclick="https://osdn.net/projects/belajar/downloads/73443/Belajar.x86_64-20.08.iso/">Unduh disini</button> atau <button name="button" onclick="https://drive.google.com/file/d/1sulTJM8ybqmYpcG-A_DQAmNkRbYwfAKV/view?usp=sharing">disini</button>
+[Unduh disini](https://osdn.net/projects/belajar/downloads/73443/Belajar.x86_64-20.08.iso) atau [disini](https://drive.google.com/file/d/1sulTJM8ybqmYpcG-A_DQAmNkRbYwfAKV/view?usp=sharing)
 
 ## Aplikasi Unggulan
 
